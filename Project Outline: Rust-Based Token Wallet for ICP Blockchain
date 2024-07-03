@@ -6,5 +6,5 @@ Creating a detailed outline for the Rust-based token wallet for the Internet Com
 
 ##### Token Definition
 
-Create a Rust struct to represent the token. For this example, we'll define a simple structure that includes basic token attributes and balances.
+Create a Rust struct to represent the token. For this example, we'll define a simple structure that includes basic token attributes and balances
 
